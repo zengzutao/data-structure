@@ -7,6 +7,7 @@
 ### 3.https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 ### 4.http://www.btechsmartclass.com/data_structures/introduction-to-algorithms.html
 ### 5.https://mrpandey.github.io/d3graphTheory/unit.html
+### 6.https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md
 
 ### note:
 ### 1.https://blog.csdn.net/YYZZHC999/article/details/75923540
